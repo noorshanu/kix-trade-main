@@ -6,7 +6,7 @@ import Hero from "./components/Hero";
 function App() {
   return (
     <>
-      <div className="main">
+      <div className="main overflow-y-hidden">
         <div className=" py-3">
           <Hero />
         </div>

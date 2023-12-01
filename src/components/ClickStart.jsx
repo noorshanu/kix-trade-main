@@ -2,8 +2,8 @@ import React from "react";
 
 function ClickStart() {
   return (
-    <section>
-      <div className="container-wrapper">
+    <section className=" relative mt-[5%]">
+      <div className="container-wrapper relative z-50">
         <div className="bg-[#3b8ca5b3] rounded-lg  py-12">
           <h1 className=" archo-black  text-white text-2xl font-semibold text-center">
             <span className=" txt-s font-extrabold">Create an account </span>{" "}
