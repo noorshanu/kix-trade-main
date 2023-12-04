@@ -21,7 +21,7 @@ function About() {
 
             <p className="font-work font-medium text-white text-lg">
               <span className="txt-s font-semibold">KiX </span> is Alpha Testing
-              on the Polygon Testnet NOW and Trade-athon is our biggest and best
+              on the Polygon Testnet NOW and  <span className="txt-s font-semibold">Trade-athon</span>  is our biggest and best
               game yet, with prizes to be won twice a week, EVERY week!
             </p>
           </div>

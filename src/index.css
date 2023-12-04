@@ -69,3 +69,15 @@ background-size: cover;
 .txt-s{
   text-shadow: 2px 2px #0f0f0f;
 }
+
+.btn-hov:hover {
+  transform: scale(1.5);
+}
+
+.btn-hov
+{
+  transition: transform .2s; 
+  cursor: pointer;
+  position: relative;
+  z-index: 999;
+}

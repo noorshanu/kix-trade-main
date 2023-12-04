@@ -4,24 +4,24 @@ function Hero() {
   return (
     <section className=" relative">
       <div className=" absolute w-full -top-[54%] overflow-y-hidden">
-        <video autoPlay loop muted playsInline className="w-full h-full">
+        <video autoPlay loop muted playsInline className="w-full h-full opacity-40">
           <source src="images/stad.webm" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
       <div className=" absolute w-full -top-[54%] overflow-y-hidden">
-        <video autoPlay loop muted playsInline className="w-full h-full">
+        <video autoPlay loop muted playsInline className="w-full h-full opacity-40">
           <source src="images/chart.webm" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
-      <div className=" absolute -top-[0%] left-0 right-0 z-[990]">
+      <div className=" absolute -top-[0%] left-0 right-0 z-[2] ">
         <video
           autoPlay
           loop
           muted
           playsInline
-          className="w-full max-w-7xl h-full mx-auto"
+          className="w-full max-w-7xl h-full mx-auto "
         >
           <source src="images/team.webm" type="video/mp4" />
           Your browser does not support the video tag.
