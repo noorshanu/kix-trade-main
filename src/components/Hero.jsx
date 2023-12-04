@@ -32,15 +32,15 @@ function Hero() {
           <img src="images/logo.png" alt="" className=" mx-auto" />
         </div>
         <div>
-          <img src="images/tredtext.png" alt="" className=" mx-auto py-4" />
+          <img src="images/tredtext.png" alt="" className=" mx-auto py-4 sm:h-[7rem] h-auto " />
         </div>
 
         <div className=" flex  justify-between  items-center ">
           <img src="images/free.png" alt="" />
 
           <h1
-            className="archo-black txt-s text-white -mt-44
-           text-5xl font-extrabold text-center"
+            className="archo-black txt-s text-white -mt-52
+          sm:text-4xl text-lg font-extrabold text-center"
           >
             {" "}
             BUY & Sell <br />
