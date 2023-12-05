@@ -12,6 +12,7 @@ function Hero() {
       <div className=" absolute w-full top-[50%] sm:-top-[54%] overflow-y-hidden">
         <video autoPlay loop muted playsInline className="w-full h-full opacity-40">
           <source src="images/chart.webm" type="video/mp4" />
+          <source src="images/chart.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
