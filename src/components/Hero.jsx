@@ -15,13 +15,13 @@ function Hero() {
           Your browser does not support the video tag.
         </video>
       </div>
-      <div className=" absolute -top-[0%] left-0 right-0 z-[2] ">
+      <div className=" absolute top-[-4%] left-0 right-0 z-[2]  ">
         <video
           autoPlay
           loop
           muted
           playsInline
-          className="w-full max-w-7xl h-full mx-auto "
+          className="w-full max-w-3xl h-full mx-auto "
         >
           <source src="images/team.webm" type="video/mp4" />
           Your browser does not support the video tag.
@@ -32,11 +32,23 @@ function Hero() {
           <img src="images/logo.png" alt="" className=" mx-auto" />
         </div>
         <div>
-          <img src="images/tredtext.png" alt="" className=" mx-auto py-4 sm:h-[7rem] h-auto " />
+          <img src="images/tredtext.png" alt="" className=" mx-auto py-4 sm:h-[6rem] h-auto " />
         </div>
 
-        <div className=" flex  justify-between  items-center ">
-          <img src="images/free.png" alt="" />
+        <div className=" flex  justify-between  items-center relative ">
+        <div className=" absolute -top-[43%]  right-0 z-[2]  ">
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="w-full max-w-3xl h-full mx-auto "
+        >
+          <source src="images/ring-r.webm" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+          <img src="images/free.png" alt="" className="h-[16rem]" />
 
           <h1
             className="archo-black txt-s text-white -mt-52
@@ -47,7 +59,7 @@ function Hero() {
             FOOTBALLERS
           </h1>
 
-          <img src="images/now.png" alt="" />
+          <img src="images/now.png" alt="" className="h-[16rem]" />
         </div>
       </div>
     </section>
