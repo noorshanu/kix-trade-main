@@ -22,6 +22,7 @@ function Hero() {
           loop
           muted
           playsInline
+          controls
           className="w-full max-w-3xl h-full mx-auto "
         >
             {/* <source src="images/team.mp4" type="video/mp4" /> */}
