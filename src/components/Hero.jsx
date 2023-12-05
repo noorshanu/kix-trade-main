@@ -24,7 +24,7 @@ function Hero() {
           playsInline
           className="w-full max-w-3xl h-full mx-auto "
         >
-            <source src="images/team.mp4" type="video/mp4" />
+            {/* <source src="images/team.mp4" type="video/mp4" /> */}
           <source src="images/team.webm" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
