@@ -23,12 +23,13 @@ function Hero() {
           muted
           playsInline
           
-          className="w-full max-w-3xl h-full mx-auto "
+          className="w-full max-w-3xl h-full mx-auto hidden sm:block"
         >
-            <source src="images/tem3.webm" type="video/mp4" />
+            {/* <source src="images/tem3.webm" type="video/mp4" /> */}
           <source src="images/team.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
+        <img src="images/team.gif" alt="" className=" block sm:hidden" />
       </div>
       <div className="container-wrapper relative z-50">
         <div className=" my-4">
