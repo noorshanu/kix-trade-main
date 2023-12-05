@@ -2,7 +2,7 @@ import React from "react";
 
 function BuySell() {
   return (
-    <section className=" relative mt-[18%] sm:mt-[6%]">
+    <section className=" relative mt-[19%] sm:mt-[6%]">
       <div className="container-wrapper relative z-50">
         <div className="flex justify-center w-full "></div>
         <div className=" flex justify-center gap-[16%] relative z-[955]">
