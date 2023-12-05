@@ -36,7 +36,7 @@ function Hero() {
         </div>
 
         <div className=" flex justify-center  sm:justify-between  items-center relative ">
-        <div className=" absolute -top-[43%] right-[-20px] sm:right-0 z-[2]  ">
+        <div className=" absolute -top-[43%] right-[-20px] sm:right-0 z-[2] hidden sm:block ">
         <video
           autoPlay
           loop
@@ -50,7 +50,7 @@ function Hero() {
       </div>
 
 
-      <div className=" absolute -top-[46%] sm:-top-[45%] -left-[30px]  sm:-left-[14px] z-[2]  ">
+      <div className=" absolute -top-[46%] sm:-top-[45%] -left-[30px]  sm:-left-[14px] z-[2] hidden sm:block  ">
         <video
           autoPlay
           loop
