@@ -2,7 +2,7 @@ import React from "react";
 
 function ClickStart() {
   return (
-    <section className=" relative mt-1 sm:mt-[5%]">
+    <section className=" relative mt-[3%] sm:mt-[5%]">
       <div className="container-wrapper relative z-[999]">
         <div className="bg-[#3b8ca5b3] rounded-lg  py-12">
           <h1 className=" archo-black  text-white text-base sm:text-2xl font-semibold text-center">
