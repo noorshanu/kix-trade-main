@@ -48,7 +48,21 @@ function Hero() {
           Your browser does not support the video tag.
         </video>
       </div>
-          <img src="images/free.png" alt="" className="h-[16rem]" />
+
+
+      <div className=" absolute -top-[45%]  -left-[14px] z-[2]  ">
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          className="w-full max-w-3xl h-full mx-auto "
+        >
+          <source src="images/ring-l.webm" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+          <img src="images/free.png" alt="" className="h-[16rem] relative " />
 
           <h1
             className="archo-black txt-s text-white -mt-52
