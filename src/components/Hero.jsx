@@ -23,7 +23,7 @@ function Hero() {
           muted
           playsInline
           
-          className="w-full max-w-3xl h-full mx-auto hidden sm:block"
+          className="w-full max-w-lg h-full mx-auto hidden sm:block"
         >
             {/* <source src="images/tem3.webm" type="video/mp4" /> */}
           <source src="images/team.webm" type="video/webm" />
@@ -33,10 +33,10 @@ function Hero() {
       </div>
       <div className="container-wrapper relative z-50">
         <div className=" my-4">
-          <img src="images/logo.png" alt="" className=" mx-auto h-[2.4rem] sm:h-auto" />
+          <img src="images/logo.png" alt="" className=" mx-auto h-[2.4rem] sm:h-[1.5rem]" />
         </div>
         <div>
-          <img src="images/tredtext.png" alt="" className=" mx-auto py-4 sm:h-[6rem] h-[4.5rem] " />
+          <img src="images/tredtext.png" alt="" className=" mx-auto py-4 sm:h-[4.5rem] h-[4.5rem] " />
         </div>
 
         <div className=" flex justify-center  sm:justify-between  items-center relative ">
@@ -70,7 +70,7 @@ function Hero() {
 
           <h1
             className="archo-black txt-s text-white -mt-16 sm:-mt-52
-          sm:text-4xl text-lg font-extrabold text-center"
+          sm:text-xl text-lg font-extrabold text-center"
           >
             {" "}
             BUY & Sell <br />

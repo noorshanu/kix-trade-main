@@ -13,11 +13,11 @@ function App() {
         <div className=" py-3">
           <BuySell />
         </div>
-        <div className=" py-3">
+        <div className=" py-1">
           <ClickStart />
         </div>
        
-        <div className=" py-3">
+        <div className=" py-2">
           <About />
         </div>
       </div>
