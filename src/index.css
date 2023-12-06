@@ -89,7 +89,7 @@ background-size: cover;
     background-color: #bc179ed1;
 background-image:url('/public/images/home2.png') ;
 background-repeat: no-repeat;
-
+background-position-y: unset;
 background-size: cover;
 
 
