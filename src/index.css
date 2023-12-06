@@ -53,6 +53,7 @@
 .main{
 background-image:url('/public/images/home.png') ;
 background-repeat: no-repeat;
+background-position-y: -509px;
 background-size: cover;
 
 

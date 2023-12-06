@@ -24,6 +24,8 @@ function BuySell() {
         <div className=" flex justify-center mt-[1%]">
           <img src="images/share.png" alt="" className="sm:h-[6rem] h-[5.4rem] mt-3 sm:mt-0 mb-1" />
         </div>
+
+        
       </div>
     </section>
   );
