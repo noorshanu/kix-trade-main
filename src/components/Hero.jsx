@@ -29,7 +29,7 @@ function Hero() {
           <source src="images/team.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>
-        {/* <img src="images/team.gif" alt="" className=" block sm:hidden" /> */}
+        <img src="images/team.gif" alt="" className=" block sm:hidden" />
       </div>
       <div className="container-wrapper relative z-50">
         <div className="my-3 sm:my-2">
