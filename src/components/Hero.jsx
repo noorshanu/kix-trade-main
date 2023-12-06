@@ -9,27 +9,29 @@ function Hero() {
           Your browser does not support the video tag.
         </video>
       </div>
-      <div className=" absolute w-full top-[28%] sm:-top-[35%] overflow-y-hidden">
-        <video autoPlay loop muted playsInline className="w-full max-w-6xl mx-auto h-full opacity-40">
+      <div className=" absolute w-full top-[58%] sm:-top-[35%] overflow-y-hidden">
+        <video autoPlay loop muted playsInline className="w-full max-w-6xl mx-auto h-full opacity-40 sm:block hidden ">
           <source src="images/chart.webm" type="video/webm" />
         
           Your browser does not support the video tag.
         </video>
+        <img src="images/chart.gif" alt="" className=" w-full max-w-lg sm:max-w-2xl h-full mx-auto  block sm:hidden opacity-40" />
       </div>
-      <div className=" absolute top-[16%] sm:top-[-1%] left-0 right-0 z-[2]  ">
+      <div className=" absolute top-[62%] sm:top-[-1%] left-0 right-0 z-[2]  ">
         <video
           autoPlay
           loop
           muted
           playsInline
           
-          className="w-full max-w-lg sm:max-w-2xl h-full mx-auto "
+          className="w-full max-w-lg sm:max-w-2xl h-full mx-auto sm:block hidden "
         >
             {/* <source src="images/tem3.webm" type="video/mp4" /> */}
           <source src="images/team.webm" type="video/webm" />
+         
           Your browser does not support the video tag.
         </video>
-        {/* <img src="images/team.gif" alt="" className=" block sm:hidden" /> */}
+        <img src="images/team.gif" alt="" className=" w-full max-w-lg sm:max-w-2xl h-full mx-auto  block sm:hidden" />
       </div>
       <div className="container-wrapper relative z-50">
         <div className="my-3 sm:my-2">
