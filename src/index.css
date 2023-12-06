@@ -85,9 +85,10 @@ background-size: cover;
 @media (max-width:768px) {
 
   .main{
-    background-color: black;
-background-image:url('/public/images/home.png') ;
+    background-color: #bc179ed1;
+background-image:url('/public/images/home2.png') ;
 background-repeat: no-repeat;
+
 background-size: cover;
 
 
