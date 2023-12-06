@@ -67,7 +67,7 @@ background-size: cover;
 }
 
 .txt-s{
-  text-shadow: 2px 2px #0f0f0f;
+  text-shadow: 2px 2px #0f0f0f83;
 }
 
 .btn-hov:hover {
@@ -80,4 +80,16 @@ background-size: cover;
   cursor: pointer;
   position: relative;
   z-index: 999;
+}
+
+@media (max-width:768px) {
+
+  .main{
+    background-color: black;
+background-image:url('/public/images/home.png') ;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
 }

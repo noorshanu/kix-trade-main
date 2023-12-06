@@ -4,7 +4,7 @@ function About() {
   return (
     <section className=" relative overflow-y-hidden">
       <div className="container-wrapper relative z-50 max-w-3xl mx-auto">
-        <div className="bg-[#a149a9] rounded-lg py-12 px-2">
+        <div className="bg-[#a149a9a2] rounded-lg py-8 px-2">
           <h1
             className=" archo-black txt-s  text-white text-2xl 
       font-semibold text-center"
