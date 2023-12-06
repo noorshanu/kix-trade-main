@@ -2,7 +2,7 @@ import React from "react";
 
 function BuySell() {
   return (
-    <section className=" relative mt-[19%] sm:-mt-[2%]">
+    <section className=" relative mt-[19%] sm:mt-[2%]">
       <div className="container-wrapper relative z-50">
         <div className="flex justify-center w-full "></div>
         <div className=" flex justify-center gap-[6%] relative z-[955]">
@@ -22,7 +22,7 @@ function BuySell() {
         </div>
 
         <div className=" flex justify-center mt-[1%]">
-          <img src="images/share.png" alt="" className="sm:h-[4rem] h-[5.4rem] mt-3 sm:mt-0 mb-1" />
+          <img src="images/share.png" alt="" className="sm:h-[6rem] h-[5.4rem] mt-3 sm:mt-0 mb-1" />
         </div>
       </div>
     </section>
