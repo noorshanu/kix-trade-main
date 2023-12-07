@@ -9,12 +9,12 @@ function ClickStart() {
               className=" uppercase archo-black text-lg sm:text-xl txt-s py-3 px-12 rounded-lg  bg-[#11cac9]  text-[#edd400] mx-auto btn-hov "
             >
               {" "}
-              click to start
+              click to Play
             </a>
           </div>
       <div className="container-wrapper relative z-[999]">
-        <div className="bg-[#3b8ca5b3] rounded-lg  sm:pt-4 pb-1 sm: max-w-3xl mx-auto">
-          <h1 className=" archo-black  text-white text-base sm:text-xl font-semibold text-center">
+        <div className="bg-[#3b8ca5b3] rounded-lg  sm:pt-4 pb-2 sm: max-w-3xl mx-auto">
+          <h1 className="  font-work text-white text-base sm:text-lg font-semibold text-center">
             <span className="  font-extrabold">Create an account </span>{" "}
             with a social login <br /> OR just connect your wallet. <br />
             Either way it’s a <br />
@@ -29,7 +29,7 @@ function ClickStart() {
               className=" uppercase archo-black text-lg sm:text-xl txt-s py-3 px-12 rounded-lg  bg-[#11cac9]  text-[#edd400] mx-auto btn-hov "
             >
               {" "}
-              click to start
+              click to Play
             </a>
           </div>
         </div>

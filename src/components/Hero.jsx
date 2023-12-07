@@ -42,13 +42,13 @@ function Hero() {
         </div>
 
         <div className=" flex justify-center  sm:justify-between  items-center relative ">
-        <div className=" absolute -top-[43%] right-[-20px] sm:right-0 z-[2] hidden sm:block ">
+        <div className=" absolute -top-[45%] right-[-20px] sm:right-[-2px] z-[2] hidden sm:block ">
         <video
           autoPlay
           loop
           muted
           playsInline
-          className="w-full max-w-3xl h-full mx-auto "
+          className="w-full max-w-4xl h-full mx-auto "
         >
           {/* <source src="images/ring-r.webm" type="video/mp4" /> */}
           Your browser does not support the video tag.
