@@ -12,16 +12,16 @@ function About() {
             ABOUT KIX
           </h1>
           <div className=" max-w-xl mx-auto text-center">
-            <p className="font-work font-medium text-white text-base sm:text-lg  py-5">
+            <p className="font-work font-medium text-white text-base sm:text-lg let-space  py-5">
               Welcome to <span className="txt-s font-semibold">KiX </span> , a
               Live Football Gaming Platform where users can buy and sell digital
               assets representing the world’s most exciting footballers and
               compete to win based on their real-world match performances.
             </p>
 
-            <p className="font-work font-medium text-white text-base sm:text-lg">
+            <p className="font-work font-medium text-white text-base sm:text-lg let-space">
               <span className="txt-s font-semibold">KiX </span> is Alpha Testing
-              on the Polygon Testnet NOW and  <span className="txt-s font-semibold">Trade-athon</span>  is our biggest and best
+              on the Polygon Testnet NOW and  <span className="txt-s font-semibold">Tradeathon</span>  is our biggest and best
               game yet, with prizes to be won twice a week, EVERY week!
             </p>
           </div>

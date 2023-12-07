@@ -12,9 +12,9 @@ function ClickStart() {
               click to Play
             </a>
           </div>
-      <div className="container-wrapper relative z-[999]">
-        <div className="bg-[#3b8ca5b3] rounded-lg  sm:pt-4 pb-2 sm: max-w-3xl mx-auto">
-          <h1 className="  font-work text-white text-base sm:text-lg font-semibold text-center">
+      <div className="container-wrapper max-w-3xl mx-auto relative z-[999]">
+        <div className="bg-[#3b8ca5b3] rounded-lg py-2 sm:py-8 px-2 ">
+          <h1 className="  font-work text-white text-base sm:text-[1.5rem] font-semibold text-center let-space">
             <span className="  font-extrabold">Create an account </span>{" "}
             with a social login <br /> OR just connect your wallet. <br />
             Either way it’s a <br />

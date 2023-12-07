@@ -59,6 +59,10 @@ background-size: cover;
 
 }
 
+.let-space{
+  letter-spacing: -0.9px;
+}
+
 .archo-black{
   font-family: 'Archivo Black', sans-serif;
 }
