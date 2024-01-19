@@ -6,7 +6,7 @@ function About() {
       <div className="container-wrapper relative z-50 max-w-3xl mx-auto">
         <div className="bg-[#a149a9b2] rounded-lg py-2 sm:py-8 px-2">
           <h1
-            className=" archo-black txt-s  text-white text-2xl 
+            className=" archo-black   text-white text-2xl 
       font-semibold text-center"
           >
             ABOUT KIX
