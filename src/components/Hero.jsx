@@ -18,7 +18,7 @@ function Hero() {
         <img src="images/chart.gif" alt="" className=" w-full max-w-lg sm:max-w-2xl h-full mx-auto  block sm:hidden opacity-40" />
       </div>
       <div className=" absolute top-[62%] sm:top-[-1%] left-0 right-0 z-[2]  ">
-        <video
+        {/* <video
           autoPlay
           loop
           muted
@@ -26,11 +26,11 @@ function Hero() {
           
           className="w-full max-w-lg sm:max-w-2xl h-full mx-auto sm:block hidden "
         >
-            {/* <source src="images/tem3.webm" type="video/mp4" /> */}
+            
           <source src="images/team.webm" type="video/webm" />
          
           Your browser does not support the video tag.
-        </video>
+        </video> */}
         <img src="images/team.gif" alt="" className=" w-full max-w-lg sm:max-w-2xl h-full mx-auto  block sm:hidden" />
       </div>
       <div className="container-wrapper relative z-50">
@@ -43,16 +43,16 @@ function Hero() {
 
         <div className=" flex justify-center  sm:justify-between  items-center relative ">
         <div className=" absolute -top-[45%] right-[-20px] sm:right-[-2px] z-[2] hidden sm:block ">
-        <video
+        {/* <video
           autoPlay
           loop
           muted
           playsInline
           className="w-full max-w-4xl h-full mx-auto "
         >
-          {/* <source src="images/ring-r.webm" type="video/mp4" /> */}
+         
           Your browser does not support the video tag.
-        </video>
+        </video> */}
       </div>
 
 
