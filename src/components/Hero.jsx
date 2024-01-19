@@ -11,7 +11,7 @@ function Hero() {
           className=" w-full max-w-lg sm:max-w-5xl h-full mx-auto  block  opacity-60"
         />
       </div>
-      <div className=" absolute top-[62%] sm:top-[40%] left-0 right-0 z-[2]  ">
+      <div className=" absolute top-[62%] sm:top-[43%] left-0 right-0 z-[2]  ">
         <img
           src="images/team.gif"
           alt=""
