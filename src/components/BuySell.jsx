@@ -6,7 +6,7 @@ function BuySell() {
       <div className="container-wrapper relative z-50">
         <div className="flex justify-center w-full "></div>
         <div className=" flex justify-center gap-[6%] relative z-[955]">
-          <a
+          {/* <a
             href="/"
             className=" bg-[#b553be] px-6  sm:px-10 py-1 sm:py-1 text-[14px] sm:text-xl archo-black text-white rounded-md uppercase cursor-pointer relative z-[9999]"
           >
@@ -18,7 +18,7 @@ function BuySell() {
           >
             {" "}
             sell
-          </a>
+          </a> */}
         </div>
 
         <div className=" flex justify-center mt-[1%]">

@@ -45,7 +45,7 @@ function Hero() {
           />
 
           <h1
-            className="archo-black txt-s text-white -mt-16 sm:-mt-52 lh-1_1 
+            className="archo-black  text-white -mt-16 sm:-mt-52 lh-1_1 
           sm:text-2xl text-lg font-extrabold text-center"
           >
             {" "}
